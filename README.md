@@ -1,4 +1,4 @@
-# Python
+# Daata analysis of a grocery store using Python skills
 
 Conduct an analysis for a Instacart, an online grocery store
 that operates through an app. Instacart already has very good sales, but they
